@@ -1,0 +1,48 @@
+[
+    {
+        
+        
+    "admobMediation" : true,
+    "admobADS" : true,
+    "interid": "ca-app-pub-5940305789942506/5790173349",
+    "bannerid": "ca-app-pub-5940305789942506/28006978834",
+    "nativeAdmobId" : "ca-app-pub-5940305789942506/3481696099",
+    
+    "facebookADS" : false,
+    "fan_inter": "140549657911283_140549697911279",
+    "fan_banner": "140549657911283_140549701244612",
+    "fan_banner_big": "",
+    "fan_native": "140549657911283_140549707911278",
+        
+        
+    "title": "o que é assistente pessoal?",
+    "text": "Um assistente pessoal de voz, muitas vezes referido como assistente pessoal virtual ou simplesmente assistente de voz, é um programa de software ou aplicativo que usa processamento de linguagem natural e tecnologia de reconhecimento de fala para interagir com os usuários por meio da linguagem falada. ",
+    "text2": "Esses assistentes são projetados para realizar uma ampla gama de tarefas e fornecer informações, serviços e assistência aos usuários por meio de comandos de voz ou consultas."
+  },
+  {
+    "title": "qual o objetivo de uma assistência pessoal",
+    "text": "Um assistente pessoal de voz é um companheiro digital que usa reconhecimento de fala e processamento de linguagem natural para ajudar os usuários em tarefas como responder perguntas, definir lembretes, controlar dispositivos inteligentes e fornecer informações, tudo por meio de comandos de voz ou consultas.",
+    "text2": ""
+  },
+  {
+    "title": "como funciona uma assistência pessoal?",
+    "text": "Um assistente pessoal funciona ouvindo comandos de voz, convertendo-os em texto, entendendo a intenção do usuário por meio do processamento de linguagem, acessando serviços baseados em nuvem para obter informações, executando tarefas ou fornecendo respostas e fornecendo respostas faladas através do alto-falante de um dispositivo,",
+    "text2": "tudo isso enquanto prioriza o usuário privacidade e aprendizado com as interações para melhorar o desempenho ao longo do tempo."
+  },
+    {
+    "title": "impacto da assistência pessoal",
+    "text": "Os assistentes pessoais de voz impactaram a vida humana ao proporcionar conveniência, acessibilidade e eficiência nas tarefas, oferecendo acesso à informação, melhorando as casas inteligentes, promovendo a segurança, auxiliando na educação e no bem-estar, mas também levantando preocupações com a privacidade e transformando as interações comerciais.",
+    "text2": "Sua influência varia de acordo com as necessidades do usuário e sua familiaridade com a tecnologia"
+
+  },
+  {
+    "title": "o melhor da assistência pessoal",
+    "text": "O melhor assistente pessoal depende do ecossistema do seu dispositivo e das necessidades específicas.",
+    "text2": "Siri para usuários da Apple, Google Assistant para Android e integração de pesquisa e Amazon Alexa para controle de casa inteligente são algumas opções populares."
+  },
+  {
+    "title": "assistência pessoal russa",
+    "text": "A Rússia vinha desenvolvendo sua própria assistente pessoal ativada por voz chamada (Alisa) ou (Alice) (em russo, (Алиса)). Ele foi desenvolvido pela Yandex, uma empresa multinacional russa de TI conhecida por seu mecanismo de busca, e foi projetado para competir com assistentes de voz globais como Siri e Google Assistant.",
+    "text2": "Alisa está disponível em vários serviços Yandex e dispositivos inteligentes, incluindo smartphones, alto-falantes inteligentes e sistemas automotivos. Como outros assistentes de voz, Alisa pode realizar tarefas como responder perguntas, fornecer informações, definir lembretes, controlar dispositivos domésticos inteligentes e muito mais."
+  }
+]
