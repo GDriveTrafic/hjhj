@@ -4,7 +4,7 @@
       "network": "Yandex",
       
       "inReview": false,
-      "likeUs": false,
+      "likeUs": true,
       "suspended": false,
       "webMode": false,
       "webLink": "",
