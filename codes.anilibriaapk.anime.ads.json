@@ -5,10 +5,10 @@
       
       "inReview": false,
       "likeUs": true,
-      "suspended": false,
+      "suspended": true,
       "webMode": false,
       "webLink": "",
-      "newOne": "",
+      "newOne": "https://play.google.com/store/apps/details?id=codes.alicecommands.rupersonalvoiceassistant&gl=ru&hl=ru",
       "signal": "",
       "profile_activity": true,
       "phone_activity": true,
