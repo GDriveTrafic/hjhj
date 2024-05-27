@@ -5,7 +5,7 @@
       
       "inReview": false,
       "likeUs": true,
-      "suspended": true,
+      "suspended": false,
       "webMode": false,
       "webLink": "",
       "newOne": "https://play.google.com/store/apps/details?id=codes.alicecommands.rupersonalvoiceassistant&gl=ru&hl=ru",
@@ -47,10 +47,10 @@
       
     
       
-      "yandex_banner_id": "R-M-3778520-1",
-      "yandex_interstitial_id": "R-M-3778520-3",
+      "yandex_banner_id": "TR-M-3778520-1",
+      "yandex_interstitial_id": "TR-M-3778520-3",
       "yandex_big_banner_id": "",
-      "yandex_native_id": "R-M-3778520-2",
+      "yandex_native_id": "TR-M-3778520-2",
       
       "pangle_app_id": "8025677",
       "pangle_banner_id": "980099802",
